@@ -20,6 +20,7 @@ the style for the font,input, and buttons.
 When I initially pushed the project onto github it worked, however it was plain,
 and not anything special to look at. I added some CSS, and now its an experience
 that the user can enjoy!
+** Added a black border to the image, because I didn't like the way it looked before.
 
 ## Lessons Learned:
 
